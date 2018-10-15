@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.6" height="77.6">
+  <g data-name="Layer 2">
+    <g data-name="support-agency">
+      <path data-name="block" d="M0 16v29.6h29.6V16zm8.8 26.4H3.2v-5.6h5.6zm0-8.8H3.2V28h5.6zm0-8.8H3.2v-5.6h5.6zm8.8 17.6H12v-5.6h5.6zm0-8.8H12V28h5.6zm0-8.8H12v-5.6h5.6zm8.8 17.6h-5.6v-5.6h5.6zm0-8.8h-5.6V28h5.6zm0-8.8h-5.6v-5.6h5.6zM32 48v29.6h29.6V48zm8.8 26.4h-5.6v-5.6h5.6zm0-8.8h-5.6V60h5.6zm0-8.8h-5.6v-5.6h5.6zm8.8 17.6H44v-5.6h5.6zm0-8.8H44V60h5.6zm0-8.8H44v-5.6h5.6zm8.8 17.6h-5.6v-5.6h5.6zm0-8.8h-5.6V60h5.6zm0-8.8h-5.6v-5.6h5.6z"/>
+      <path data-name="roof" d="M0 0v13.6h29.6zM32 32v13.6h29.6z"/>
+      <path data-name="block-door" d="M0 48v29.6h12.558V60.475h13V77.6H29.6V48zm8.8 26.4H3.2v-5.6h5.6zm0-8.8H3.2V60h5.6zm0-8.8H3.2v-5.6h5.6zm8.8 0H12v-5.6h5.6zm8.8 0h-5.6v-5.6h5.6z"/>
+    </g>
+  </g>
+</svg>

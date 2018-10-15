@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93.6" height="81">
+  <g data-name="Layer 2">
+    <g data-name="peer-institution">
+      <g data-name="leadership">
+        <path d="M66.358 10.4H26.842V5.6L46.6 0l19.758 5.6v4.8zM31.8 13.6H35v17.6h-3.2zM40.6 13.6h3.2v17.6h-3.2zM49.4 13.6h3.2v17.6h-3.2zM58.2 13.6h3.2v17.6h-3.2zM26.842 34.4h39.515v3.2H26.842z"/>
+      </g>
+      <path data-name="school" d="M69.8 23.4v17.4H23.4V23.4H2.8V44h87.6V23.4zM11.4 40.8H5.8v-5.6h5.6zm0-8.8H5.8v-5.6h5.6zm8.8 8.8h-5.6v-5.6h5.6zm0-8.8h-5.6v-5.6h5.6zm58.4 8.8H73v-5.6h5.6zm0-8.8H73v-5.6h5.6zm8.8 8.8h-5.6v-5.6h5.6zm0-8.8h-5.6v-5.6h5.6z"/>
+      <g data-name="educators">
+        <circle cx="21.733" cy="55.4" r="5.6"/>
+        <circle cx="46.267" cy="55.4" r="5.6"/>
+        <circle cx="70.8" cy="55.4" r="5.6"/>
+      </g>
+      <g data-name="students">
+        <circle cx="7.6" cy="69.4" r="2.8"/>
+        <circle cx="16.4" cy="69.4" r="2.8"/>
+        <circle cx="25.2" cy="69.4" r="2.8"/>
+        <circle cx="34" cy="69.4" r="2.8"/>
+        <circle cx="42.8" cy="69.4" r="2.8"/>
+        <circle cx="51.6" cy="69.4" r="2.8"/>
+        <circle cx="60.4" cy="69.4" r="2.8"/>
+        <circle cx="69.2" cy="69.4" r="2.8"/>
+        <circle cx="78" cy="69.4" r="2.8"/>
+        <circle cx="86.8" cy="69.4" r="2.8"/>
+        <circle cx="2.8" cy="78.2" r="2.8"/>
+        <circle cx="11.6" cy="78.2" r="2.8"/>
+        <circle cx="20.4" cy="78.2" r="2.8"/>
+        <circle cx="29.2" cy="78.2" r="2.8"/>
+        <circle cx="38" cy="78.2" r="2.8"/>
+        <circle cx="46.8" cy="78.2" r="2.8"/>
+        <circle cx="55.6" cy="78.2" r="2.8"/>
+        <circle cx="64.4" cy="78.2" r="2.8"/>
+        <circle cx="73.2" cy="78.2" r="2.8"/>
+        <circle cx="82" cy="78.2" r="2.8"/>
+        <circle cx="90.8" cy="78.2" r="2.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

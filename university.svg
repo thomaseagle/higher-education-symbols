@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128.8" height="99.8">
+  <g data-name="Layer 2">
+    <g data-name="university">
+      <g data-name="university-leadership">
+        <path data-name="pediment" d="M91.2 12.4H38.4V7.6L64.8 0l26.4 7.6v4.8z"/>
+        <g data-name="pillars">
+          <path d="M41.2 15.6h3.2v25.6h-3.2zM50 15.6h3.2v25.6H50zM58.8 15.6H62v25.6h-3.2zM67.6 15.6h3.2v25.6h-3.2zM76.4 15.6h3.2v25.6h-3.2zM85.2 15.6h3.2v25.6h-3.2z"/>
+        </g>
+        <path data-name="base" d="M38.4 44.4h52.8v3.2H38.4z"/>
+      </g>
+      <path data-name="university-school" d="M94 24.4v26.4H35.6V24.4H6V54h117.6V24.4zM14.8 50.8H9.2v-5.6h5.6zm0-8.8H9.2v-5.6h5.6zm0-8.8H9.2v-5.6h5.6zm8.8 17.6H18v-5.6h5.6zm0-8.8H18v-5.6h5.6zm0-8.8H18v-5.6h5.6zm8.8 17.6h-5.6v-5.6h5.6zm0-8.8h-5.6v-5.6h5.6zm0-8.8h-5.6v-5.6h5.6zm70.4 17.6h-5.6v-5.6h5.6zm0-8.8h-5.6v-5.6h5.6zm0-8.8h-5.6v-5.6h5.6zm8.8 17.6H106v-5.6h5.6zm0-8.8H106v-5.6h5.6zm0-8.8H106v-5.6h5.6zm8.8 17.6h-5.6v-5.6h5.6zm0-8.8h-5.6v-5.6h5.6zm0-8.8h-5.6v-5.6h5.6z"/>
+      <g data-name="university-educators">
+        <circle cx="28.4" cy="65.4" r="5.6"/>
+        <circle cx="52.933" cy="65.4" r="5.6"/>
+        <circle cx="77.467" cy="65.4" r="5.6"/>
+        <circle cx="102" cy="65.4" r="5.6"/>
+      </g>
+      <g data-name="university-students">
+        <circle cx="12.4" cy="79.4" r="2.8"/>
+        <circle cx="21.2" cy="79.4" r="2.8"/>
+        <circle cx="30" cy="79.4" r="2.8"/>
+        <circle cx="38.8" cy="79.4" r="2.8"/>
+        <circle cx="47.6" cy="79.4" r="2.8"/>
+        <circle cx="56.4" cy="79.4" r="2.8"/>
+        <circle cx="65.2" cy="79.4" r="2.8"/>
+        <circle cx="74" cy="79.4" r="2.8"/>
+        <circle cx="82.8" cy="79.4" r="2.8"/>
+        <circle cx="91.6" cy="79.4" r="2.8"/>
+        <circle cx="100.4" cy="79.4" r="2.8"/>
+        <circle cx="109.2" cy="79.4" r="2.8"/>
+        <circle cx="118" cy="79.4" r="2.8"/>
+        <circle cx="16.4" cy="88.2" r="2.8"/>
+        <circle cx="7.6" cy="88.2" r="2.8"/>
+        <circle cx="25.2" cy="88.2" r="2.8"/>
+        <circle cx="34" cy="88.2" r="2.8"/>
+        <circle cx="42.8" cy="88.2" r="2.8"/>
+        <circle cx="51.6" cy="88.2" r="2.8"/>
+        <circle cx="60.4" cy="88.2" r="2.8"/>
+        <circle cx="69.2" cy="88.2" r="2.8"/>
+        <circle cx="78" cy="88.2" r="2.8"/>
+        <circle cx="86.8" cy="88.2" r="2.8"/>
+        <circle cx="95.6" cy="88.2" r="2.8"/>
+        <circle cx="104.4" cy="88.2" r="2.8"/>
+        <circle cx="113.2" cy="88.2" r="2.8"/>
+        <circle cx="122" cy="88.2" r="2.8"/>
+        <circle cx="20.4" cy="97" r="2.8"/>
+        <circle cx="11.6" cy="97" r="2.8"/>
+        <circle cx="2.8" cy="97" r="2.8"/>
+        <circle cx="29.2" cy="97" r="2.8"/>
+        <circle cx="38" cy="97" r="2.8"/>
+        <circle cx="46.8" cy="97" r="2.8"/>
+        <circle cx="55.6" cy="97" r="2.8"/>
+        <circle cx="64.4" cy="97" r="2.8"/>
+        <circle cx="73.2" cy="97" r="2.8"/>
+        <circle cx="82" cy="97" r="2.8"/>
+        <circle cx="90.8" cy="97" r="2.8"/>
+        <circle cx="99.6" cy="97" r="2.8"/>
+        <circle cx="108.4" cy="97" r="2.8"/>
+        <circle cx="117.2" cy="97" r="2.8"/>
+        <circle cx="126" cy="97" r="2.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74.515" height="33.6">
+  <g data-name="Layer 2">
+    <g data-name="reform-partner">
+      <path d="M54.758 0l-17.5 4.96L19.758 0 0 5.6v4.8h74.515V5.6L54.758 0z" data-name="pediments"/>
+      <g data-name="pillars">
+        <path d="M39.958 13.6h3.2v13.6h-3.2zM48.758 13.6h3.2v13.6h-3.2zM57.558 13.6h3.2v13.6h-3.2zM66.358 13.6h3.2v13.6h-3.2zM4.958 13.6h3.2v13.6h-3.2zM13.758 13.6h3.2v13.6h-3.2zM22.558 13.6h3.2v13.6h-3.2zM31.358 13.6h3.2v13.6h-3.2z"/>
+      </g>
+      <g data-name="base">
+        <path d="M0 30.4h74.515v3.2H0z" data-name="&lt;Rectangle&gt;"/>
+      </g>
+    </g>
+  </g>
+</svg>
